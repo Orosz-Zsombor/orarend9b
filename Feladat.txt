@@ -1,5 +1,11 @@
 Végezze el a következő lépéseket!
 
 1) A keddi napot alakítsa át annak a csoportnak megfelelően, amelyikbe tartozik! Legyen kedden A és B hét is!
+A thead már készen van!
+
 2) A mellékelt képeket felhasználva a megfelelő cellákban a tárgy neve helyett kép jelenjen meg!
+
+
+
+Ez még nem kell!
 3) Készítsen hivatkozást az iskola honlapjára, az iskola nevére kattintva!
